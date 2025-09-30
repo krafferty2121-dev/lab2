@@ -1,6 +1,6 @@
 ---
 title: "Lab 2"
-author: "Seneca RiceWoolf"
+author: "Seneca RiceWoolf, Kevin Rafferty"
 date: "2025-09-30"
 output: html_document
 ---
@@ -28,3 +28,4 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
